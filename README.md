@@ -15,5 +15,8 @@ The main framework used in building the TinDog website is Bootstrap and its comp
 ![Pricing](images/screenshots/ss_4.png)
 ![Contact](images/screenshots/ss_5.png)
 
+## Link
+![TinDog Website](https://arpy8.github.io/TinDog/)
+
 ## Author 
 * [arpy8](https://github.com/arpy8)

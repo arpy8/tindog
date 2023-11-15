@@ -8,15 +8,15 @@ A home page website which provides details of the application to the end user li
 ## Tools Used
 The main framework used in building the TinDog website is Bootstrap and its components like Carousel, Card, Buttons, Navbar etc. It also used HTML5, CSS3 and Google Fonts and Font Awesome.
 
+## Live Demo
+[TinDog](https://arpy8.github.io/TinDog/)
+
 ## Screenshots
 ![Home page](images/screenshots/ss_1.png)
 ![Our Goals](images/screenshots/ss_2.png)
 ![Testimonials](images/screenshots/ss_3.png)
 ![Pricing](images/screenshots/ss_4.png)
 ![Contact](images/screenshots/ss_5.png)
-
-## Link
-Here' the [link](https://arpy8.github.io/TinDog/) to the website. 
 
 ## Author 
 * [arpy8](https://github.com/arpy8)
